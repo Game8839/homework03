@@ -1,0 +1,1 @@
+let myfriend = [`Game`,`Hoyyeah`,`Jame`,`Thu`,`Kaka`];
